@@ -3,6 +3,7 @@ package Backtracking;
 import java.util.Scanner;
 
 public class Implementation_2_Direction {
+    
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
